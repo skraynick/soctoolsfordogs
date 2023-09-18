@@ -1,0 +1,6 @@
+
+## Ports
+
+![[ports.jpeg]]
+
+#Networking 
