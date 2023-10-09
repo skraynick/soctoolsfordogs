@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5e65a770f735605f",
+        "id": "b02b1ed7394aa5cf",
         "type": "tabs",
         "children": [
           {
-            "id": "2ec33ffaf6dbdd5c",
+            "id": "83f5928f0d475ee5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dogtreats/How-TO_LinuxCommands/General.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "464e16b9e0d43a47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dogtreats/How-TO_LinuxCommands/Git Commands.md",
+                "file": "dogtreats/How-TO_SOC/zeek sripts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dogtreats/How-TO_LinuxCommands/Git Commands.md",
+                "file": "dogtreats/How-TO_SOC/zeek sripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dogtreats/How-TO_LinuxCommands/Git Commands.md",
+                "file": "dogtreats/How-TO_SOC/zeek sripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dogtreats/How-TO_LinuxCommands/Git Commands.md"
+                "file": "dogtreats/How-TO_SOC/zeek sripts.md"
               }
             }
           },
@@ -169,11 +156,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "464e16b9e0d43a47",
+  "active": "83f5928f0d475ee5",
   "lastOpenFiles": [
-    "dogtreats/How-TO_LinuxCommands/Grep.md",
+    "dogtreats/How-TO_SOC/Critical 1 notes.md",
+    "dogtreats/How-TO_SOC/zeek sripts.md",
     "dogtreats/How-TO_SOC/Recognizing scans and attacks in wireshark..md",
     "dogtreats/How-TO_SOC/Exploitation.md",
+    "dogtreats/1.2_Bibliography.md",
+    "dogtreats/How_TO_NETWORK/IP Datagram.md",
+    "dogtreats/How-TO_LinuxCommands/General.md",
+    "dogtreats/How_TO_Program/Stenography.md",
+    "dogtreats/How-TO_LinuxCommands/Git Commands.md",
+    "dogtreats/How-TO_LinuxCommands/Grep.md",
     "Pasted image 20231001185400.png",
     "Pasted image 20231001184238.png",
     "Pasted image 20231001184032.png",
@@ -181,7 +175,6 @@
     "Pasted image 20231001190052.png",
     "Pasted image 20231001185814.png",
     "Pasted image 20231001185254.png",
-    "dogtreats/How-TO_LinuxCommands/General.md",
     "dogtreats/How-TO_LinuxCommands/less.md",
     "dogtreats/How-TO_LinuxCommands/zeek.md",
     "dogtreats/How-TO_LinuxCommands/Tail.md",
@@ -198,21 +191,16 @@
     "dogtreats/How_TO_NETWORK/Ports.md",
     "dogtreats/How_TO_NETWORK/Networking Knowledge.md",
     "dogtreats/How-TO_LinuxCommands/sed.md",
-    "dogtreats/How_TO_NETWORK/IP Datagram.md",
     "dogtreats/How-TO_LinuxCommands/SSH.md",
     "dogtreats/How-TO_LinuxCommands/JQ Commands.md",
-    "dogtreats/How-TO_LinuxCommands/Git Commands.md",
     "dogtreats/How-TO_LinuxCommands/CAT.md",
     "dogtreats/Tools",
     "dogtreats/How_TO_Program",
     "dogtreats/How_TO_NETWORK",
     "dogtreats/How-TO_SOC",
     "dogtreats/How-TO_LinuxCommands",
-    "dogtreats/1.2_Bibliography.md",
     "dogtreats",
     "Course_1.2/How_TO_Program/PowerShell/Powershell.md",
-    "Course_1.2/Tools/Zeek.md",
-    "Course_1.2/Tools/Snort.md",
     "Course_1.2/How_TO_Program/PowerShell",
     "Course_1.2/Tools",
     "Course_1.2/How_TO_NETWORK"

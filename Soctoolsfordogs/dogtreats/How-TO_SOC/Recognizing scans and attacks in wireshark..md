@@ -87,7 +87,12 @@ If we see such packets in our network, someone is probably performing TCP Xmass 
 tcp.flags.fin==1 && tcp.flags.push==1 && tcp.flags.urg==1
 ```
 
-
+zeek-cut -d -F '\t' -c conn.log 'proto=="tcp" && conn_state=="S0"'
+or 
+tcpdump -r your_capture_file.pcap 'tcp[tcpflags] & (tcp-fin | tcp-urg | tcp-push) != 0 
+or 
+in wireshark 
+tcp.flags.fin == 1 && tcp.flags.urg == 1 && tcp.flags.psh == 1
 
 ![[Pasted image 20231001190257.png]]
 
